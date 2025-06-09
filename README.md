@@ -17,7 +17,7 @@ In this lab, we are going to be introduced to one of the famous Cloud Service pr
 
 Choose the S3 service from the list of services provided by AWS.
 
-(![image](https://github.com/user-attachments/assets/d641bb01-a8f8-405c-914b-5ff7840a539d))
+![image](https://github.com/user-attachments/assets/d641bb01-a8f8-405c-914b-5ff7840a539d)
 
 ### Step 2: Create a Unique Bucket
 
